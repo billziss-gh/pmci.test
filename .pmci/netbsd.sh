@@ -1,1 +1,2 @@
 echo I AM RUNNING ON NETBSD!
+echo 2
